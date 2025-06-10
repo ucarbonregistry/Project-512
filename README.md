@@ -1,7 +1,42 @@
 # Project-512
 Vaayu India Wind Power Project in Andhra Pradesh
 
+Vaayu (India) Power Corporation Private Limited (VIPCPL) has installed 50.4 MW wind 
+farm in the state of Andhra Pradesh in India. Wind World (India) Limited (“Wind World”) 
+is the equipment supplier and the operations and maintenance contractor for the 
+Project. There are 63 Wind Energy Convertors (“WEC’s”) of with rated capacity 800 KW 
+each. The generated electricity is supplied to Electricity Distribution Company (DISCOM) 
+under a long-term power purchase agreement (PPA). The expected operational lifetime 
+of the project is for 20 years. The project being a renewable energy generation activity, 
+leads to reduction in fossil fuel dominated electricity generation from the Indian grid. 
 
+The Wind Technology is supplied by Wind World (India) Ltd. who promoted WW-53 
+technology (previously known as Enercon) with rated capacity 800 KW for each WEC. 
+The electricity supplied to the grid is metered from main and check meters at 33kV that 
+are connected to the 63 turbines of the project activity. 
+
+The first machine under the project activity was commissioned on 02/08/2010 and last 
+machine was commissioned on 04/05/2011. 
+
+Host Party(ies) : India 
+
+Region/State/Province, etc:  Andhra Pradesh State 
+
+City/Town/Community, etc:  Petnikota, Tummalapenta, Abdullapuram, 
+Chintalayapalli villages in Kurnool district and Venkatampalli & Bhogasamudram villages 
+in Anantapur district in Indian State of Andhra Pradesh.
+__________
+The total emission reductions achieved during the previous 
+monitoring periods under CDM are: 25/04/2011 – 25/03/2012 was 93,324 tCO2e, 
+26/03/2012 – 25/12/2012 was 96,662 tCO2e, 26/12/2012 – 25/12/2013 was 104,621 
+tCO2e, 26/12/2013 to 24/09/2014 was 93,459 tCO2e and 25/09/2014 to 02/09/2016 
+the value achieved was 157,704 tCO2e.
+
+The emission reductions for the period 
+03/09/2016 to 01/01/2019 under CDM is 176,550, followed by a subsequent period 
+02/01/2019 to 01/04/2020 undeform which 108,584 CERs were issued. 
+
+____________
 
 PRIOR HISTORY
 ________
