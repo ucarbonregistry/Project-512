@@ -42,43 +42,51 @@ CERs requested up to 31 December 2012: 96662
 Serial Range: Block start: IN-5-181896070-1-1-0-4677      Block end: IN-5-181992731-1-1-0-4677
 ______________
 
-Monitoring report: 26 Dec 2012 - 25 Dec 2013 (997 KB)
+Monitoring report: 26 Dec 2012 - 25 Dec 2013 
+
 Issuance request state: Issued
+
 CERs requested up to 31 December 2012: 644
+
 CERs requested from 01 Jan 2013 until 31 December 2020: 103977
+
 Serial Range: Block start: IN-5-196782931-1-1-0-4677      Block end: IN-5-196783574-1-1-0-4677
+
 Serial Range: Block start: IN-5-196783575-2-2-0-4677      Block end: IN-5-196887551-2-2-0-4677
-[Full view and history]
+____________
+Monitoring report: 26 Dec 2013 - 24 Sep 2014 
 
-
-Monitoring report: 26 Dec 2013 - 24 Sep 2014 (569 KB)
 Issuance request state: Issued
+
 CERs requested from 01 Jan 2013 until 31 December 2020: 93459
+
 Serial Range: Block start: IN-5-236151997-2-2-0-4677      Block end: IN-5-236245455-2-2-0-4677
-[Full view and history]
+_______________
 
+Monitoring report: 25 Sep 2014 - 02 Sep 2016 
 
-Monitoring report: 25 Sep 2014 - 02 Sep 2016 (575 KB)
 Issuance request state: Issued
+
 CERs requested from 01 Jan 2013 until 31 December 2020: 157704
+
 Serial Range: Block start: IN-5-236245456-2-2-0-4677      Block end: IN-5-236403159-2-2-0-4677
-[Full view and history]
+____________
 
+Monitoring report: 03 Sep 2016 - 01 Jan 2019 
 
-Monitoring report: 03 Sep 2016 - 01 Jan 2019 (632 KB)
 Issuance request state: Issued
+
 CERs requested from 01 Jan 2013 until 31 December 2020: 176550
+
 Serial Range: Block start: IN-5-259936858-2-2-0-4677      Block end: IN-5-260113407-2-2-0-4677
-[Full view and history]
+___________
+Monitoring report: 02 Jan 2019 - 01 Apr 2020 
 
-
-Monitoring report: 02 Jan 2019 - 01 Apr 2020 (1545 KB)
 Issuance request state: Issued
+
 CERs requested from 01 Jan 2013 until 31 December 2020: 108584
+
 Serial Range: Block start: IN-5-283096643-2-2-0-4677      Block end: IN-5-283205226-2-2-0-4677
-[Full view and history]
-
-
 
 ____________
 Gold standard 
