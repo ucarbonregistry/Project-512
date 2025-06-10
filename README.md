@@ -25,6 +25,12 @@ Region/State/Province, etc:  Andhra Pradesh State
 City/Town/Community, etc:  Petnikota, Tummalapenta, Abdullapuram, 
 Chintalayapalli villages in Kurnool district and Venkatampalli & Bhogasamudram villages 
 in Anantapur district in Indian State of Andhra Pradesh.
+
+The project activity is registered under Clean Development Mechanism (CDM) project with
+registration number 4677, as well as Gold Standard (GS) with reference number 4603. The crediting
+period of this project under CDM & GS is 25/04/2011 to 24/04/2021. PP seeks verification under
+UCR from 01/05/2021 onwards, i.e., crediting period for UCR starts from 01/05/2021. Hence, there
+is no double counting for the said project.
 __________
 The total emission reductions achieved during the previous 
 monitoring periods under CDM are: 25/04/2011 – 25/03/2012 was 93,324 tCO2e, 
